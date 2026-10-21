@@ -42,3 +42,8 @@ somson map.osm output.geojson --pretty
 ```bash
 somson map.osm output.ndjson --ndjson
 ```
+## How to Use
+In the directory where the .osm is run above commands. 
+remember to use the actual name of your file not map.osm
+  somson yourfilename.osm yourfilename.geojson --pretty
+    
